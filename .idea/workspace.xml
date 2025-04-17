@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d51ff3f-1854-4f02-82da-c0b3aebf2ba7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2tpQQrwzAuVWdwpQgBQ64admFmP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ControlDeStockMain.executor": "Run",
+    "Application.PruebaConexion.executor": "Run",
+    "Application.PruebaPoolDeConexiones.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Mysql_Java/Java_y_JDBC_Trabajando_con_una_Base_de_Datos/Proyecto_Control_de_Stock_03_03_2025/control_de_stock_Alura_",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.alura.jdbc.dao" />
+      <recent name="com.alura.jdbc.ControlDeStockFrame" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.alura.jdbc.factory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ControlDeStockMain">
+    <configuration name="ControlDeStockMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alura.jdbc.ControlDeStockMain" />
+      <module name="control-de-stock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alura.jdbc.factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaConexion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alura.jdbc.tests.PruebaConexion" />
+      <module name="control-de-stock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alura.jdbc.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaPoolDeConexiones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alura.jdbc.tests.PruebaPoolDeConexiones" />
+      <module name="control-de-stock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alura.jdbc.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ControlDeStockMain" />
+        <item itemvalue="Application.PruebaPoolDeConexiones" />
+        <item itemvalue="Application.PruebaConexion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d51ff3f-1854-4f02-82da-c0b3aebf2ba7" name="Changes" comment="" />
+      <created>1741046540554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741046540554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/control_de_stock_Alura_$PruebaConexion.ic" NAME="PruebaConexion Coverage Results" MODIFIED="1741052604380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alura.jdbc.tests.*</FILTER>
+    </SUITE>
+  </component>
+</project>
